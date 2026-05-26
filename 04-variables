@@ -1,5 +1,5 @@
 #!/bin/bash
 
-TIMESTAMP=$(cal)
+TIMESTAMP=$(date)
 
-echo "calender for current : $TIMESTAMP"
+echo "time is : $TIMESTAMP"
