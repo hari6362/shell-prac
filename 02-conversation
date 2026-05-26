@@ -7,5 +7,5 @@ name2=sai
 name3=mahe
 
 echo "$name1: hi"
-echo "$name3: hi how are you"
+echo "$name2: hi how are you"
 echo "$name3: hi guys"
