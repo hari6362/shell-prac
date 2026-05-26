@@ -1,4 +1,11 @@
 #!/bin/bash
 
-echo "harish: hi"
-echo "sai: hi how are you"
+
+#variables
+name1=harish
+name2=sai
+name3=mahe
+
+echo "$name1: hi"
+echo "$name3: hi how are you"
+echo "$name3: hi guys"
