@@ -2,4 +2,4 @@
 
 TIMESTAMP=$(cal)
 
-echo "Time is : $TIMESTAMP"
+echo "calender for current : $TIMESTAMP"
